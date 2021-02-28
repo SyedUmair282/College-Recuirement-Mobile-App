@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "431792769266",
+    "firebase_url": "https://weather-app-react-9a0ae.firebaseio.com",
+    "project_id": "weather-app-react-9a0ae",
+    "storage_bucket": "weather-app-react-9a0ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431792769266:android:c86b6b4d26d92d8544686b",
+        "android_client_info": {
+          "package_name": "com.collegesystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431792769266-sf1c4g1k031vr638s9b9jr483kcnmcjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADmdDG_BZ7yElVw4Hi-72Om5sv4dPozdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431792769266-sf1c4g1k031vr638s9b9jr483kcnmcjh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
